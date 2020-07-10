@@ -40,7 +40,7 @@ new Vue ({
 ```
  
 Hello world 코드
-```
+```html
 <html>
   <body>
     <div id="app">
